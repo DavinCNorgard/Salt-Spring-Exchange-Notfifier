@@ -22,7 +22,7 @@ def sendToClients(formatted):
 
 
 account_sid = 'AC694d00904b775b76a46011c864c84999'
-auth_token = '0b5fe67ad3fa4633c42050b088536012'
+auth_token = '0b5fe67ad3fa4633c42050b088536012' #Good luck using this
 client = Client(account_sid, auth_token)
 changed = False
 
