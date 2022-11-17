@@ -1,0 +1,1 @@
+start "" "C:\Python39\python.exe" "ControlSMSSender.py"
